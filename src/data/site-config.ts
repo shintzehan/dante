@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'Shin Tzehan',
+    subtitle: 'Electrical and Computer Engineer',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -51,6 +51,10 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
+            text: 'About',
+            href: '/about'
+        },
+        {
             text: 'Projects',
             href: '/projects'
         },
@@ -59,60 +63,29 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
-        }
-    ],
-    footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
-        {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+    ],
+    footerNavLinks: [
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://twitter.com/shintzehan'
         }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
-        image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
+        text: "I'm **Shin Tzehan**, an Electrical and Computer Engineer that obtained a dual degree of B.S. in EE and CS at the year of 2023, and worked in optronic industry as field electrician in Shenzhen.<br>" +
+        "Asperger Syndrome with abstruction (math / physics) and language telents, trilingual of English, Chinese and Japanese.<br>" +
+        "I want to achieve high positions in industry, for instance seinor engineer and / or engineering manager.\n",
         actions: [
             {
                 text: 'Get in Touch',
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8
