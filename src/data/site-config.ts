@@ -77,13 +77,17 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Shin Tzehan**, an Electrical and Computer Engineer that obtained a dual degree of B.S. in EE and CS at the year of 2023, and worked in optronic industry as field electrician in Shenzhen.<br>" +
-        "Asperger Syndrome with abstruction (math / physics) and language telents, trilingual of English, Chinese and Japanese.<br>" +
-        "I want to achieve high positions in industry, for instance seinor engineer and / or engineering manager.\n",
+        text: "I'm **Shin Tzehan**, an Electrical and Computer Engineer who obtained a dual degree of Bachelor in EE and CS at the year of 2023.<br>" +
+        "Asperger Syndrome with abstruction (math / physics) and language advantages, trilingual of English, Chinese and Japanese.<br>" +
+        "Want to achieve high positions in industry, for example senior engineer and / or engineering manager.",
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'About Me',
+                href: '/about'
+            },
+            {
+                text:'Contact Me',
+                href:'/contact'
             }
         ]
     },
