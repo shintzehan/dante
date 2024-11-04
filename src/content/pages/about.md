@@ -9,11 +9,11 @@ seo:
 
 ### Engineer not Technician
 
-I obtained my college degree of Bachelor in EE and CS in 2023, the reason I chose Field Application Engineer as my entry position is it involves massive conduction with people: internal and external.
+I obtained my college degree of Bachelor in EE and CS in 2023.
 
 Before make commitment on plans, I would prefer to figure out why and how, **Engineers** should be prepared to identify problems that might happen potentially, Rather than handle problems / tasks that constantly raised like **Technician**.
 
-I love the experience serve as FAE during 2023 to 2024, I can understand how industry works from a macro perspective presently, but I shall not stop here.
+I chose Field Application Engineer as my entry position, I love the experience serve as FAE during 2023 to 2024, I can understand how industry works from a macro perspective presently, but I shall not stop here.
 
 ### Passions
 
