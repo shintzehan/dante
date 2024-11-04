@@ -2,6 +2,12 @@
 title: 'Blog Deployment'
 description: Astro is nice solution for blog deploy, rely on LLM (claude) is inefficient.
 publishDate: 'Nov 02 2024'
+tags:
+  - Web
+seo:
+  image:
+    src: '/post-1.jpg'
+    alt: A person standing at the window
 ---
 
 ### Motivation
