@@ -1,7 +1,7 @@
 ---
-title: Why I keep emphasis Engineer is not Technician
+title: Why I keep emphasize Engineer is not Technician
 excerpt: some exceeds culture, social norms and behaviors
-publishDate: 'Aug 5 2024'
+publishDate: 'Nov 2 2024'
 tags:
   - Thought
 seo:
