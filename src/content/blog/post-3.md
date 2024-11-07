@@ -5,23 +5,25 @@ publishDate: 'Nov 8 2024'
 tags:
 - Outlook
 ---
-### Socialization, maybe failed but valuable
-My first steps to get into society is as field application engineer, as passive tasks' solver.
-I was wish to be an engineer with English as working language, since my passion's about active learner rather than technician.
+### Figure out pros and cons
+After socialization, to deepen my awareness is crucial. Specifically to figure out my pros and cons.
 
-The valuable experience for me in previous year as FAE is about tired but socialized, I gradually understand how others think and act.
-Socialization helps me identify problems and tasks, before that I was confused about which part of eecs to dive into, or maybe language learning to go first and then pursue master degree oversea.
+My previous plan is to achieve status as Engineer that works in English, which is not clearly enough.
+1) Engineering or English, which comes first?
+2) What is Engineering, and what is English as working language.
+3) How to distribute attention in engineering and language.
 
-### What I don't want before my 30s
-I don't want to be leader or any form of person that arrange people with tasks, conduct with others are valuable in association but can't enhance ones garbling power when get pay by his / her time.
+As far as one year after then, I can give my temporary answer now.
+1) Engineering is the first, English is the tool to fulfill my Engineering career that spans multiple disciplines.
+2) Engineering **must** refer for fields that needs hands-on, Reading books or view videos doesn't help, English is the tool to access international contents and GitHub.
+3) I can't answer.
 
-I don't want to keep in homogenous role (but not means to be the same occupation) for a long time, with repetitive practice can't truly enhance my productivity.
+### Why can't give specific answer on the distribution of attention
+Language is more important than I think after using LLMs for Engineering, to question is the crucial skill as an engineer.
+As trilingual, I can feel that English and Japanese help me a lot in interact with LLMs.
 
-I don't want to connect with female, maybe after 30s too.
-
-### What I want to obtain before my 30s
-Healthy body, friend offline and serve as a profession in my domain (reputation).
-
-Reading ability, which is truly valuable but rare in my class.
-
-High paid position, or start own business(?).
+### Before my 30s
+I want to ensure accessibility to middle-high position in career, as specialist even professional.
+- hold experience in both eecs disciplines is crucial, with prepared ability to self-taught
+- hold master degree is an option
+- oversea working experience is good, culture exchange is good
